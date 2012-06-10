@@ -1,4 +1,7 @@
-Fractal-Terrain-Test.js
+Controls
 =======================
 
-Fiddling around
++:          Raise Land
+-:          Lower Land
+SpaceBar:   New Map
+Escape:     Quit
