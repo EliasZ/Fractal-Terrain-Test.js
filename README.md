@@ -1,7 +1,6 @@
 Controls
 =======================
 
-+:          Raise Land
--:          Lower Land
-SpaceBar:   New Map
-Escape:     Quit
+- **[+]** Raise land
+- **[-]** Lower land
+- **[SPACEBAR]** New map
