@@ -1,0 +1,67 @@
+/** RESET **/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;}body{line-height:150%;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}:focus{outline:0;}ins{text-decoration:none;}del{text-decoration:line-through;}table{border-collapse:collapse;border-spacing:0;}
+/** RESET **/
+
+body {
+	background-color: #efefef;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+h1 {
+	font-size: 16px;
+}
+h2 {
+	font-size: 14px;
+}
+
+a {
+	color: #777;
+	text-decoration: none;
+}
+a:hover {
+	color: #aaa;
+}
+
+p {
+	margin-bottom: 10px;
+}
+
+sup {
+	position: relative;
+	font-size: 12px;
+	left: 0px;
+	font-weight: normal;
+}
+
+canvas {
+	margin-bottom: 10px;
+}
+
+#header {
+	background-color: #333;
+	padding: 10px 0px;
+}
+	#header > #header-inner {
+		overflow: none;
+		height: 15px;
+		width: 1024px;
+		color: #fff;
+		margin: 0px auto;
+	}
+		#header > #header-inner > h2 {
+			margin: 0px;
+		}
+	
+#wrapper {
+	width: 1024px;
+	margin: 20px auto 0px auto;
+}
+
+#footer {
+	position: fixed;
+	bottom: 0px;
+	background-color: #333;
+	color: #fff;
+	padding: 5px 10px;
+}
