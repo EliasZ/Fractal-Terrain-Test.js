@@ -10,4 +10,4 @@ About
 
 [LAMMJohnson](https://github.com/LAMMJohnson)'s [Fractal-Terrain-Test](https://github.com/LAMMJohnson/Fractal-Terrain-Test) ported to Javascript. Instead of using SDL, the Canvas 2D API renders the height map.
 
-[Demo](http://eliasz.github.cm/Fractal-Terrain-Test.js)
+[Demo](http://eliasz.github.com/Fractal-Terrain-Test.js)
